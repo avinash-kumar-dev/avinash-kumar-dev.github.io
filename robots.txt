@@ -1,4 +1,3 @@
 User-agent: *
 Disallow: /docs-a/private/
-Disallow: /nomap/b/
 Sitemap: https://avinash-kumar-dev.github.io/sitemap.xml
