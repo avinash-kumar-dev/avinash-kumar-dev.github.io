@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /docs-a/private/
+Sitemap: https://avinash-kumar-dev.github.io/sitemap.xml
